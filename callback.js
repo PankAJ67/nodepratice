@@ -25,4 +25,5 @@ function calculator (a,b, sum){
 sum(a,b);
 }
 calculator(1,2, sum);
-
+ // changes done 
+ 
